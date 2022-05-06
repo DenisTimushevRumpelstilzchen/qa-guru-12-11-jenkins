@@ -1,4 +1,4 @@
-package tests;
+package tests.demoqa.properties;
 
 import config.CredentialsConfig;
 import org.aeonbits.owner.ConfigFactory;
